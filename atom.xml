@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[jAlpedrinha blog]]></title>
+  <title><![CDATA[jAlpedrinha's blog]]></title>
   <link href="http://jAlpedrinha.github.io/atom.xml" rel="self"/>
   <link href="http://jAlpedrinha.github.io/"/>
-  <updated>2014-04-11T14:53:34+01:00</updated>
+  <updated>2014-04-11T14:57:39+01:00</updated>
   <id>http://jAlpedrinha.github.io/</id>
   <author>
     <name><![CDATA[jAlpedrinha]]></name>
